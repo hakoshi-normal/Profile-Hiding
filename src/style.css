@@ -1,0 +1,24 @@
+/* Amazon */
+#glow-ingress-line2, #desktop-grid-1, #desktop-grid-2, .s-suggestion-container, .feed-carousel-card {
+    visibility: hidden;
+}
+
+/* Twitter自プロフィール */
+.css-175oi2r.r-1awozwy.r-sdzlij.r-6koalj.r-18u37iz.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l {
+    visibility: hidden;
+}
+
+/* Twitterタイムライン */
+.css-175oi2r.r-f8sm7e.r-13qz1uu.r-1ye8kvj {
+    visibility: hidden;
+}
+
+/* Twitter検索予測 */
+.css-175oi2r.r-kemksi.r-zchlnj.r-1d2f490.r-1rnoaur.r-1r851ge.r-u8s1d.r-ipm5af.r-1xfd6ze.r-qo02w8.r-hw8u5c.r-h3f8nf {
+    visibility: hidden;
+}
+
+/* YouTube */
+/*#content, #contents {
+    visibility:hidden;
+}*/
